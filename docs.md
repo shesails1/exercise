@@ -1,4 +1,4 @@
-This documentation describes how to use Github.
+This documentation describes how to use Github and Git.
 
 Note that it's written by a novice user.
 
