@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This documentation describes how to use Github, Git, and other things.
 
 Note that it's written by a novice user.
